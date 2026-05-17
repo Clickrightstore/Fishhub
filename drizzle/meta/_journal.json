@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1777703974222,
+      "tag": "0000_red_infant_terrible",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1777704149580,
+      "tag": "0001_fair_mole_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1777805909769,
+      "tag": "0002_bent_marauders",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1777864066799,
+      "tag": "0003_lumpy_lockheed",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1778199764664,
+      "tag": "0004_spotty_mimic",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1778200110275,
+      "tag": "0005_violet_maverick",
+      "breakpoints": true
+    }
+  ]
+}

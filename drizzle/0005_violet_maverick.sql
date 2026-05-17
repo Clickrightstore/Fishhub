@@ -1,0 +1,1 @@
+ALTER TABLE `books` ADD `fileUrl` varchar(512);
